@@ -1,3 +1,4 @@
+![Smart Grocery Expiry Detector](assets/banner.png)
 # Smart Grocery Expiry Detector
 
 
