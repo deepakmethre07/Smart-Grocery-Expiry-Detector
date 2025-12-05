@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+opencv-python
+pillow
+dateparser
+apscheduler
+python-dotenv
+easyocr
